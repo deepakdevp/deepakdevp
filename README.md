@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Deepak Dev Panwar</h1>
-<h3 align="center">Software Engineer | Building Scalable Systems & AI-Powered Products 🚀</h3>
+<h3 align="center">Software Engineer | AI-First Development Leader | Building Scalable Systems & AI-Powered Products 🚀</h3>
 
 <p align="center">
   <a href="mailto:deepakdevp@gmail.com"><img src="https://img.shields.io/badge/Email-deepakdevp%40gmail.com-red?style=flat-square&logo=gmail"></a>
@@ -13,11 +13,40 @@
 
 ## 🚀 About Me
 
-Software Engineer with **5+ years** of experience building scalable systems from scratch across **React, Python, and Java** stacks. Architected authentication systems serving **8+ enterprise platforms** and led development of fintech and mobile products in cross-functional teams. 
+Software Engineer with **5+ years** of experience building scalable systems from scratch across **React, Python, and Java** stacks. Architected authentication systems serving **8+ enterprise platforms** and led development of fintech and mobile products in cross-functional teams.
+
+**🤖 AI-First Development Pioneer:** Leading **100% AI adoption initiative** at enterprise level, leveraging **Claude Code** and agentic coding practices for code refactoring, architecture design, and autonomous development workflows. Championing AI-augmented development both professionally and in personal projects, demonstrating measurable productivity gains and code quality improvements.
 
 Experienced mentoring engineers through technical architecture decisions, code reviews, and deployment best practices in microservices environments. Actively exploring **Generative AI**, **RAG systems**, and **LLM orchestration** with hands-on experience building MCP servers and AI-powered automation tools.
 
 🌏 **Current Focus:** Preparing for JLPT N5, exploring Japan's tech ecosystem, and planning to contribute to product-focused engineering teams.
+
+---
+
+## 🤖 AI & Development Philosophy
+
+<table>
+  <tr>
+    <td>
+      <strong>🏢 Enterprise AI Adoption</strong><br/>
+      Leading <strong>100% AI adoption</strong> at Medikabazaar<br/>
+      • Code refactoring with Claude Code<br/>
+      • Agentic coding for autonomous development<br/>
+      • AI-driven architecture decisions<br/>
+      • Team enablement & best practices
+    </td>
+    <td>
+      <strong>🔬 Personal Projects</strong><br/>
+      AI-First Development Stack<br/>
+      • Claude Code for rapid prototyping<br/>
+      • Antigravity for development workflows<br/>
+      • LLM integration & MCP servers<br/>
+      • RAG systems for intelligent apps
+    </td>
+  </tr>
+</table>
+
+**Impact:** Driving cultural shift toward AI-augmented development, reducing development cycles while maintaining high code quality standards through intelligent automation and agentic workflows.
 
 ---
 
@@ -33,7 +62,7 @@ Django (Python) · Spring Boot (Java) · Node.js · FastAPI · Express.js · RES
 PostgreSQL · MongoDB · Redis · Kafka · ElasticSearch · Pinecone · Vector Databases
 
 **AI & Machine Learning**  
-OpenAI API · LangChain · Hugging Face · RAG (Retrieval-Augmented Generation) · Prompt Engineering · Model Context Protocol (MCP) · LLM Orchestration
+OpenAI API · LangChain · Hugging Face · RAG (Retrieval-Augmented Generation) · Prompt Engineering · Model Context Protocol (MCP) · LLM Orchestration · Claude Code · Agentic Coding
 
 **Cloud & DevOps**  
 AWS (EC2, Lambda, RDS, S3) · Docker · Kubernetes · Jenkins (CI/CD) · NVIDIA Jetson Nano
@@ -42,13 +71,19 @@ AWS (EC2, Lambda, RDS, S3) · Docker · Kubernetes · Jenkins (CI/CD) · NVIDIA 
 Playwright · Sentry · New Relic · Mixpanel · Swagger · Postman
 
 **Workflow & Tools**  
-Git · JIRA · Confluence · Figma · Agile (Scrum) · Code Reviews · Technical Leadership
+Git · JIRA · Confluence · Figma · Agile (Scrum) · Code Reviews · Technical Leadership · AI-Augmented Development
 
 ---
 
 ## 💼 Professional Experience
 
 ### **SDE 2 @ Medikabazaar** _(Apr 2022 – Present)_ | Gurugram, India
+
+**🤖 AI Development Leadership:**
+- **Leading 100% AI adoption initiative** across engineering department using Claude Code for code refactoring, agentic coding, and AI-driven development workflows
+- **Pioneering AI-augmented development practices** — training teams on LLM-assisted coding, prompt engineering, and autonomous code generation
+
+**Technical Achievements:**
 - **Architected centralized UAM (User Access Management) system** from scratch with SSO (OpenID Connect), unifying auth for 8+ platforms; reduced login support overhead by **40%**
 - **Led 5-engineer squad as technical lead**, defining architecture, conducting code reviews, and ensuring best practices
 - **Built core Fintech microservices** (AP/AR, invoicing, payment workflows) with React/Django; automated **60% of manual invoicing**
@@ -57,7 +92,8 @@ Git · JIRA · Confluence · Figma · Agile (Scrum) · Code Reviews · Technical
 - **Optimized Seller Management Platform**, reducing vendor onboarding time by **90%**
 - **Architected company-wide React Design System** (NPM-published, Storybook + Chromatic); reduced frontend dev cycles by **50%** across 12 teams
 - **Implemented CI/CD pipelines** (Jenkins, Docker, AWS) with Kafka + New Relic observability
-- **Stack:** React, TypeScript, Django, Java Spring Boot, PostgreSQL, Redis, Kafka, AWS, Docker, Jenkins
+
+**Stack:** React, TypeScript, Django, Java Spring Boot, PostgreSQL, Redis, Kafka, AWS, Docker, Jenkins, Claude Code
 
 ### **Software Engineer @ DrishteAI** _(Jul 2020 – Feb 2022)_ | Hyderabad, India
 - **Architected offline ad platform** (Google Ads-style) orchestrating campaigns across city-wide screens via NVIDIA Jetson Nano edge devices
@@ -80,20 +116,21 @@ Git · JIRA · Confluence · Figma · Agile (Scrum) · Code Reviews · Technical
 
 ## 📌 Featured Projects
 
-### 🚀 [Travorier](https://github.com/deepakdevp/travorier) _(Active)_
+### 🚀 [Travorier](https://github.com/deepakdevp/travorier) _(Active - AI-Assisted Development)_
 **Crowdsourced logistics platform connecting travelers with package senders**  
+Built with AI-first development approach using Claude Code for rapid prototyping  
 TypeScript · React · Real-time matching · Location services
 
-### 🎯 [Mission Control](https://github.com/deepakdevp/mission-control)
-**Personal project management and automation hub**  
-TypeScript · Task orchestration · Workflow automation
+### 🎯 [Mission Control](https://github.com/deepakdevp/mission-control) _(AI-Powered)_
+**Personal project management and automation hub with AI integration**  
+TypeScript · Task orchestration · Workflow automation · AI agent integration
 
 ### 🤖 [GenAI Job Recommender (MCP)](https://github.com/deepakdevp/genai-job-recommender-mcp)
-**AI-powered job recommendation system with MCP server integration**  
-Python · OpenAI API · LangChain · Vector Search · Resume Parsing · Skill Gap Analysis
+**AI-powered job recommendation system with Model Context Protocol server**  
+Python · OpenAI API · LangChain · Vector Search · Resume Parsing · Skill Gap Analysis · MCP Integration
 
 ### 💊 [AI Health Assistant](https://github.com/deepakdevp/ai-health-assistant-langchain)
-**Medical chatbot with LLM reasoning and semantic search**  
+**Medical chatbot with LLM reasoning and semantic search (RAG architecture)**  
 Python · LangChain · Pinecone · Vector Databases · RAG · Flask · AWS
 
 ### 📱 [Peralert](https://github.com/deepakdevp/Peralert)
@@ -144,6 +181,7 @@ Bennett University | Greater Noida, India | 2016–2020
 
 ## 🎯 Current Interests & Active Learning
 
+- **AI-Augmented Development:** Leading enterprise-wide AI adoption with Claude Code, agentic coding, and autonomous development workflows
 - **Generative AI:** Building RAG applications with LangChain, vector databases (Pinecone), OpenAI API integration, prompt engineering
 - **Model Context Protocol (MCP):** Creating MCP servers for LLM orchestration and tool integration
 - **Japanese Language:** Actively preparing for JLPT N5 exam
@@ -166,5 +204,5 @@ Bennett University | Greater Noida, India | 2016–2020
 ---
 
 <p align="center">
-  <i>Open to opportunities in product engineering, full-stack development, and AI/ML integration. Let's build something amazing together! 🚀</i>
+  <i>🤖 Championing AI-first development practices • Open to opportunities in product engineering, full-stack development, and AI/ML integration • Let's build something amazing together! 🚀</i>
 </p>
