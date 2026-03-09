@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://deepakdevp-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-deepakdevp.vercel.app-cyan?style=flat-square&logo=vercel"></a>
+  <a href="https://x.com/DeepakDev2012"><img src="https://img.shields.io/badge/X-@DeepakDev2012-blue?style=flat-square&logo=x"></a>
   <a href="mailto:deepakdevp@gmail.com"><img src="https://img.shields.io/badge/Email-deepakdevp%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/deepak-dev-panwar-166187135/"><img src="https://img.shields.io/badge/LinkedIn-Deepak%20Dev%20Panwar-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/deepakdevp"><img src="https://img.shields.io/badge/GitHub-deepakdevp-black?style=flat-square&logo=github"></a>
