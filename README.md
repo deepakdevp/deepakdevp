@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Deepak Dev Panwar</h1>
-<h3 align="center">AI Engineer & Full Stack Developer · RAG · Agentic AI · MCP · Building with LLMs</h3>
+<h3 align="center">AI Engineer & Full Stack Developer  · Agentic AI · Building with LLMs</h3>
 
 <p align="center">
   <a href="https://deepakdevp-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-deepakdevp.vercel.app-cyan?style=flat-square&logo=vercel"></a>
