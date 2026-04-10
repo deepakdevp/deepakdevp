@@ -1,87 +1,147 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Deepak Dev Panwar</h1>
-<h3 align="center">AI Engineer & Full Stack Developer  · Agentic AI · Building with LLMs</h3>
+<h1 align="center">Deepak Dev Panwar</h1>
+<h3 align="center">Software Engineer | AI/ML Integration</h3>
 
 <p align="center">
-  <a href="https://deepakdevp-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-deepakdevp.vercel.app-cyan?style=flat-square&logo=vercel"></a>
-  <a href="https://x.com/DeepakDev2012"><img src="https://img.shields.io/badge/X-@DeepakDev2012-blue?style=flat-square&logo=x"></a>
-  <a href="mailto:deepakdevp@gmail.com"><img src="https://img.shields.io/badge/Email-deepakdevp%40gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.deepakdevp.dev/"><img src="https://img.shields.io/badge/Portfolio-deepakdevp.dev-cyan?style=flat-square&logo=vercel"></a>
   <a href="https://www.linkedin.com/in/deepak-dev-panwar-166187135/"><img src="https://img.shields.io/badge/LinkedIn-Deepak%20Dev%20Panwar-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:deepakdevp@gmail.com"><img src="https://img.shields.io/badge/Email-deepakdevp%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/deepakdevp"><img src="https://img.shields.io/badge/GitHub-deepakdevp-black?style=flat-square&logo=github"></a>
 </p>
 
-<br/>
+---
 
-[![Portfolio Preview](https://raw.githubusercontent.com/deepakdevp/deepakdevp-portfolio/main/public/images/og/portfolio-preview.png)](https://deepakdevp-portfolio.vercel.app)
+Software Engineer with 5+ years owning end-to-end product delivery for B2B marketplaces (400K+ products, 50K+ hospitals). Leading a 5-engineer squad across React/TypeScript frontends, Python/Node.js microservices, and AI adoption. Shipped: design system adopted by 12 teams, SSO serving 8+ platforms, fintech microservices automating 80% of invoicing, and agentic workflows that cut vendor onboarding 90%.
 
 ---
 
-## Now
+## Open Source: Top External Contributor to OpenViking by ByteDance
 
-| | |
+<table>
+<tr>
+<td width="70%">
+
+**[OpenViking](https://github.com/volcengine/OpenViking)** by ByteDance (TikTok) &mdash; 21K+ stars, 1.5K+ forks
+
+Open-source AI context database for agent memory, resources, and skills management. **Top external contributor with 10 merged PRs** across multiple subsystems:
+
+- **Embedding infrastructure** &mdash; chunked vectorization for long memories, Jina model dimension fixes
+- **Concurrency & reliability** &mdash; circuit breaker for API retry storms, distributed path locking to prevent race conditions, async commit fixes
+- **Semantic pipeline** &mdash; budget-guarded summarization, memory queue stall fix
+- **Content parsing** &mdash; filename collision prevention, VLM backend parameter scoping
+
+Focus areas: backend reliability, distributed systems correctness, and embeddings pipeline.
+
+</td>
+<td width="30%" align="center">
+
+[![OpenViking](https://img.shields.io/github/stars/volcengine/OpenViking?style=for-the-badge&logo=github&label=Stars)](https://github.com/volcengine/OpenViking)
+
+[![PRs](https://img.shields.io/badge/Merged%20PRs-10-green?style=for-the-badge)](https://github.com/volcengine/OpenViking/pulls?q=is%3Apr+author%3Adeepakdevp+is%3Amerged)
+
+[![Contributor](https://img.shields.io/badge/Top%20External-Contributor-blue?style=for-the-badge)](https://github.com/volcengine/OpenViking/graphs/contributors)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technical Skills
+
+| Category | Technologies |
 |---|---|
-| **Building** | RAG-powered chatbot for my portfolio |
-| **Learning** | Agentic AI orchestration & MCP server design |
-| **Shipping** | AI invoice automation at Medikabazaar |
-| **Writing** | [AI adoption stories, RAG systems, agentic workflows →](https://deepakdevp-portfolio.vercel.app/blog) |
+| **Backend** | Python (Django, FastAPI), Node.js, RESTful API Design, Microservices Architecture, WebSockets |
+| **Frontend** | JavaScript, TypeScript, React, Next.js, Micro-frontend Architecture, Responsive Design, Storybook |
+| **Databases** | PostgreSQL, Redis, MongoDB, Elasticsearch |
+| **Cloud & DevOps** | AWS, Docker, Jenkins, New Relic (APM), Kafka, Mixpanel |
+| **AI/ML & LLMs** | LangChain, LangGraph, RAG Architecture, Agentic AI Workflows, Prompt Engineering, Vector Databases, Claude Code, Codex, Cursor AI |
+| **Testing & Tooling** | Jest, Pytest, Playwright, Unit/Integration/E2E Testing, Git, JIRA, Agile/Scrum |
 
 ---
 
-## About Me
+## Experience
 
-AI Engineer & Full Stack Developer with 5+ years shipping production software. I build LLM-powered products — RAG systems, agentic workflows, MCP servers, and AI tooling — and help engineering teams adopt AI practices in their day-to-day work.
+### SDE 2 &mdash; [Medikabazaar](https://www.medikabazaar.com/) (Healthcare) <sub>Apr 2022 &ndash; Present</sub>
 
-At **Medikabazaar**, India's largest B2B healthcare marketplace (₹100 Cr+ monthly GMV, 250K+ customers), I shipped an AI invoice processing system using OpenAI vision models that eliminated **80% of manual data entry**. I lead a 5-engineer team and have built platforms used at scale across healthcare.
+*India's largest B2B healthcare procurement marketplace &mdash; 400K+ medical products, 50K+ hospitals, 13K+ suppliers (Series D)*
 
-Outside work: learning Japanese (JLPT N5 🇯🇵) and exploring frontier AI tools with Claude Code.
+- Designed centralized User Access Management with SSO/OpenID Connect serving 8+ platforms; reduced login tickets by 40%
+- Led MBARC marketplace development (4-engineer team): React/Django web suite + 2 Ionic mobile apps with offline-first architecture; 90% field adoption
+- Leading company-wide AI adoption: LLM integration standards (OpenAI, Claude API, Gemini), RAG patterns, MCP server design, agentic workflow guidelines; adopted across 5+ product teams
+- Built agentic document validation pipeline for vendor onboarding: AI agent autonomously verifies documents; reduced onboarding time by 90%
+- Built internal RAG system over product specs and supplier FAQs; reduced CS ticket resolution time by 40%
+- Built fintech microservices (AP, Invoicing, Payment Workflows); automated 80% of manual invoicing
+- Leading 5-engineer squad: system architecture, code reviews, mentoring, CTO office collaboration
+- Architected React Design System as NPM package with Storybook/Chromatic; adopted by 12 teams, cutting frontend dev cycles by 50%
+- Built CI/CD pipelines via Jenkins on AWS; production monitoring with New Relic APM
 
----
+<sub>Tech: React, TypeScript, Django, FastAPI, Node.js, PostgreSQL, Redis, Kafka, AWS, Docker, Jenkins, New Relic</sub>
 
-## AI Stack
+### Software Engineer &mdash; [DrishteAI](https://www.drishte.ai/) (AI Adtech) <sub>Jul 2020 &ndash; Feb 2022</sub>
 
-| Layer | Tools |
-|---|---|
-| **LLMs** | Claude (Anthropic), GPT-4o (OpenAI), HuggingFace open-source |
-| **Frameworks** | LangChain, LlamaIndex |
-| **Vector DBs** | Pinecone, pgvector |
-| **RAG** | Chunking strategies, embeddings, hybrid search |
-| **Agents & MCP** | Claude Code, MCP server development, multi-agent orchestration |
-| **AI Dev Tools** | Claude Code, Cursor |
+*AI-powered offline advertising platform on edge devices*
 
----
+- Architected end-to-end offline ad platform on NVIDIA Jetson Nano edge devices; served 5+ enterprise clients including major FMCG brands
+- Led 3-person web team; built SPA dashboards, annotation tools, and campaign management portals with React/Django
+- Built high-performance custom video player with JavaScript, WebSockets, and Django; optimized for low-latency real-time streaming
+- Developed Upasthiti: facial recognition attendance system with ML models; deployed for 5+ enterprise clients
+- Managed AWS deployments with Docker/Nginx; automated testing with Jest and CI/CD pipelines
+- Built Python automation tools for campaign management; reduced manual operations by 60%
 
-## Writing
-
-| Post | Tag |
-|---|---|
-| [How we eliminated 80% of manual invoice processing with AI](https://deepakdevp-portfolio.vercel.app/blog/ai-invoice-automation-medikabazaar) | AI in Production |
-| [Agentic AI workflows: what actually works in 2026](https://deepakdevp-portfolio.vercel.app/blog/agentic-ai-workflows-what-works) | AI & Engineering |
-| [The ultimate guide to chunking strategies for RAG](https://deepakdevp-portfolio.vercel.app/blog/rag-chunking-strategies) | RAG & Retrieval |
-| [Claude Code and agentic coding: what I've learned](https://deepakdevp-portfolio.vercel.app/blog/claude-code-agentic-workflows) | AI & Engineering |
-| [All posts →](https://deepakdevp-portfolio.vercel.app/blog) | |
+<sub>Tech: React, JavaScript, Django, PostgreSQL, WebSockets, AWS, Docker, Nginx, Jest</sub>
 
 ---
 
-## Full Stack Skills
+## Projects
 
-**Frontend:** React · TypeScript · Next.js · Tailwind CSS · Material-UI · Storybook
+### AI/ML & Agentic AI
 
-**Backend:** Django · Spring Boot · Node.js · FastAPI · Express.js · REST · WebSockets
+| Project | Description | Tech | Status |
+|---|---|---|---|
+| **[job-hunter](https://github.com/deepakdevp/job-hunter)** | AI-powered job search pipeline: discover, score, evaluate (6-block analysis), tailor resumes, auto-apply via browser automation, web dashboard | Python, FastAPI, SQLite, Playwright, LLM abstraction (Gemini/Claude/OpenAI) | Public |
+| **[travorier](https://github.com/deepakdevp/travorier)** | Crowdsourced logistics platform connecting travelers with package senders | TypeScript, React Native, FastAPI, Supabase | Private |
+| **[localradar](https://github.com/deepakdevp/localradar)** | AI-powered competitive intelligence for local businesses &mdash; monitor competitor Google reviews, ratings, and activity | TypeScript | Private |
+| **[genai-job-recommender-mcp](https://github.com/deepakdevp/genai-job-recommender-mcp)** | MCP server for GenAI-powered job recommendation and resume analysis | Python | Public |
+| **[ai-health-assistant-langchain](https://github.com/deepakdevp/ai-health-assistant-langchain)** | Medical Q&A using RAG with LangChain | Python, Jupyter | Public |
 
-**Databases & Messaging:** PostgreSQL · MongoDB · Redis · Kafka · ElasticSearch · Pinecone
+### Developer Tools & Open Source
 
-**Cloud & DevOps:** AWS (EC2, Lambda, RDS, S3) · Docker · Kubernetes · Jenkins · CI/CD
+| Project | Description | Tech | Status |
+|---|---|---|---|
+| **[OpenViking](https://github.com/deepakdevp/OpenViking)** | Fork of ByteDance's AI context database &mdash; **top external contributor (10 merged PRs)** | Python | Public |
+| **[claude-code-skills](https://github.com/deepakdevp/claude-code-skills)** | Curated Claude Code skills library &mdash; 41 high-value skills from ~92 originals | Python | Public |
+| **[one-shot](https://github.com/deepakdevp/one-shot)** | One prompt, one fully-built product &mdash; turns Claude Code into a full product team | Shell | Public |
+| **[claude-fullstack-production-guide](https://github.com/deepakdevp/claude-fullstack-production-guide)** | Engineering playbook for production full-stack apps with Claude Code | Dockerfile | Public |
+| **[get-shit-done](https://github.com/deepakdevp/get-shit-done)** | Meta-prompting and spec-driven development system for Claude Code | JavaScript | Public |
+| **[pydantic-ai](https://github.com/deepakdevp/pydantic-ai)** | Fork of GenAI Agent Framework, the Pydantic way | Python | Public |
+| **[adk-python](https://github.com/deepakdevp/adk-python)** | Fork of Google's Agent Development Kit for Python | Python | Public |
+| **[AutoGPT](https://github.com/deepakdevp/AutoGPT)** | Fork of AutoGPT &mdash; accessible AI agent platform | Python | Public |
+
+### Web Applications
+
+| Project | Description | Tech | Status |
+|---|---|---|---|
+| **[restro-oms-qr-ordering](https://github.com/deepakdevp/restro-oms-qr-ordering)** | Restaurant order management system with QR-based ordering | TypeScript | Private |
+| **[sanya-dance-studio](https://github.com/deepakdevp/sanya-dance-studio-professional-website)** | Professional website for a dance studio | TypeScript | Private |
+| **[mission-control](https://github.com/deepakdevp/mission-control)** | Project management and control dashboard | TypeScript | Public |
+| **[drapnr](https://github.com/deepakdevp/drapnr)** | Web application | TypeScript | Public |
+| **[stounge](https://github.com/deepakdevp/stounge)** | Web application | TypeScript | Public |
+| **[Peralert](https://github.com/deepakdevp/Peralert)** | Personal WhatsApp alert system | TypeScript | Public |
+| **[Gaze](https://github.com/deepakdevp/Gaze)** | Computer vision application | Python | Public |
+| **[deepakdevp-portfolio](https://github.com/deepakdevp/deepakdevp-portfolio)** | Personal portfolio website | MDX | Public |
 
 ---
 
-## Featured Projects
+## Education
 
-| Project | Description |
-|---|---|
-| [AI Health Assistant](https://deepakdevp-portfolio.vercel.app/work/ai-health-assistant) | Medical Q&A using RAG — LangChain, GPT-4o, Pinecone |
-| [GenAI Job Recommender](https://deepakdevp-portfolio.vercel.app/work/genai-job-recommender) | Resume analysis, skill gaps, job matching with LLMs |
-| [Travorier](https://deepakdevp-portfolio.vercel.app/work/travorier) | P2P logistics SaaS — React Native, FastAPI, Supabase |
-| [Medikabazaar Seller Platform](https://deepakdevp-portfolio.vercel.app/work/medikabazaar-seller) | B2B healthcare marketplace — 250K+ customers, ₹100 Cr+ GMV |
+**B.Tech, Computer Science & Engineering (AI/ML Specialization)** &mdash; Bennett University (Times Group), 2016&ndash;2020
+
+---
+
+## Languages
+
+- **English:** Professional / Business-level fluency
+- **Japanese:** Basic (actively learning, preparing for JLPT N5)
 
 ---
 
@@ -94,14 +154,8 @@ Outside work: learning Japanese (JLPT N5 🇯🇵) and exploring frontier AI too
 
 ---
 
-## Education
-
-**B.Tech, Computer Science (AI/ML Specialisation)** — Bennett University, 2016–2020
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deepakdevp&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center"><i>Building with AI · Shipping in production · Always learning</i></p>
+<p align="center"><i>India, open to Japan relocation</i></p>
